@@ -15,7 +15,9 @@ The project is organized into the following key components:
 ### **2. Source Code**
 
 > to be created
+
 - **src/**: Contains the main code for data preprocessing, model building, training, evaluation, and prediction. It includes:
+
   - `preprocessing/`: Scripts for filtering and extracting relevant signals from the raw data.
   - `models/`: Defines the Temporal Convolutional Network (TCN) architecture and other model components.
   - `train.py`: Script to train the deep learning model.
@@ -29,17 +31,20 @@ The project is organized into the following key components:
 ### **4. Reports and Documentation**
 
 > to be created
+
 - **reports/**: Project reports, including the final documentation and figures used in the research.
 - **README.md**: Provides an overview of the project, dataset, and instructions for usage.
 
 ### **5. Tests**
 
 > to be created
+
 - **tests/**: Unit tests to validate the integrity of the code and ensure the reliability of preprocessing, model, and evaluation scripts.
 
 ### **6. Miscellaneous**
 
 > to be created
+
 - **requirements.txt**: A list of dependencies required to run the project.
 - **LICENSE**: The project license, which is based on the original ISRUC-Sleep dataset license.
 
@@ -91,6 +96,7 @@ Please download the dataset manually, as it is not included in this repository d
 |Temporal Convolutional Networks|[Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://doi.org/10.48550/arXiv.1608.08242)|
 
 ---
+
 ## Citation
 
 If you use this dataset or project in your research, please cite the original ISRUC-Sleep dataset:
