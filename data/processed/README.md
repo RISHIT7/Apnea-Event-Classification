@@ -44,11 +44,11 @@ This dataset can be directly used for:
 
 - Deep Learning
   - Access through this link: [ISRUC-Processed](https://www.kaggle.com/datasets/rishitjakharia/isruc-processed)
-  - Can be used to train Time-Series Applicaiton.
+  - Can be used to train Time-Series Applications.
 - Machine Learning
-  - Access through this link: [ISRUC-Singal-Features](https://www.kaggle.com/datasets/rishitjakharia/isurc-signal-features)
+  - Access through this link: [ISRUC-Signal-Features](https://www.kaggle.com/datasets/rishitjakharia/isurc-signal-features)
   - These are signal features extracted using the `TSFEL` library.
-  - Can be used to train Machine-Leaning Applications.
+  - It can be used to train machine-learning applications.
 
 ## Acknowledgments
 
@@ -65,4 +65,4 @@ Khalighi Sirvan, Teresa Sousa, José Moutinho Santos, and Urbano Nunes.
 
 ## License
 
-This dataset inherits the licensing terms of the ISRUC-Sleep dataset. Ensure compliance with the original dataset's terms and conditions.
+This dataset inherits the licensing terms of the ISRUC-Sleep dataset. Could you ensure compliance with the original dataset's terms and conditions?
