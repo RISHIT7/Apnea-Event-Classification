@@ -10,9 +10,7 @@ This directory contains the reports and documentation associated with the **Apne
 
 ### **2. Technical Documentation**
 
-> to be made
-
-- **`technical_documentation.pdf`**: A detailed technical document describing the model architecture, preprocessing pipeline, and other technical aspects of the project. This document is intended for developers or researchers looking for a deeper understanding of the implementation.
+- **`technical_documentation.ipynb`**: A detailed technical document describing a simplified model and guide on running the project. A Kaggle file can be accessed [here](https://www.kaggle.com/code/rishitjakharia/isruc-technical-documentation).
 
 ### **3. Experimental Results**
 
