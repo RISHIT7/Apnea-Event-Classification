@@ -4,7 +4,7 @@ This repository provides resources for working with the ISRUC-Sleep dataset, a c
 
 ## Folder Structure
 
-### **1. `raw/`**
+### 1. `raw/`
 
 This folder contains references and metadata for the raw ISRUC-Sleep dataset. The actual dataset files are not included due to licensing restrictions. Instead, it provides documentation and guidelines for accessing the original data.
 
@@ -18,7 +18,7 @@ This folder contains references and metadata for the raw ISRUC-Sleep dataset. Th
 
 ---
 
-### **2. `processed/`**
+### 2. `processed/`
 
 This folder contains the preprocessed version of the ISRUC-Sleep dataset, optimized for machine learning applications.
 
