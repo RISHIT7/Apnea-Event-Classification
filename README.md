@@ -43,8 +43,6 @@ The project is organized into the following key components:
 
 ### **6. Miscellaneous**
 
-> to be created
-
 - **requirements.txt**: A list of dependencies required to run the project.
 - **LICENSE**: The project license, which is based on the original ISRUC-Sleep dataset license.
 
