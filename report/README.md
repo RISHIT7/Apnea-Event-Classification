@@ -34,18 +34,4 @@ These reports are meant to:
 
 You can browse and download the reports in this directory for more detailed information about the project. These documents are intended to be read in conjunction with the rest of the project's code and dataset to provide context to the research work and results.
 
-For further details or to inquire about the methods used, refer to the **final_report.pdf** or **technical_documentation.pdf**.
-
----
-
-## Citation
-
-If you use the contents of this project in your own work or research, please cite the relevant reports, papers, and the original ISRUC-Sleep dataset.
-
-For citation details, refer to the main project README and the references section in the final report.
-
----
-
-## License
-
-The reports are provided for educational and research purposes. Please ensure to follow any licensing terms provided within the respective documents.
+For further details or to inquire about the methods used, refer to the **final_report.pdf** or **technical_documentation.ipynb**.
