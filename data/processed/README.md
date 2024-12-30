@@ -65,4 +65,4 @@ Khalighi Sirvan, Teresa Sousa, José Moutinho Santos, and Urbano Nunes.
 
 ## License
 
-This dataset inherits the licensing terms of the ISRUC-Sleep dataset. Could you ensure compliance with the original dataset's terms and conditions?
+This dataset inherits the licensing terms of the ISRUC-Sleep dataset.
