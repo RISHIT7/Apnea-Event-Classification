@@ -14,9 +14,7 @@ This directory contains the reports and documentation associated with the **Apne
 
 ### **3. Experimental Results**
 
-> to be made
-
-- **`experimental_results.pdf`**: A document summarizing the key results from various experiments conducted during the project, including model performance, evaluation metrics, and comparative analyses.
+- **`experimental_results.md`**: A document summarizing the key results from various experiments conducted during the project, including model performance, evaluation metrics, and comparative analyses.
 
 ---
 
