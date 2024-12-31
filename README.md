@@ -30,8 +30,6 @@ The project is organized into the following key components:
 
 ### **4. Reports and Documentation**
 
-> to be created
-
 - **reports/**: Project reports, including the final documentation and figures used in the research.
 - **README.md**: Provides an overview of the project, dataset, and instructions for usage.
 
