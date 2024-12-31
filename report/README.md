@@ -12,10 +12,6 @@ This directory contains the reports and documentation associated with the **Apne
 
 - **`technical_documentation.ipynb`**: A detailed technical document describing a simplified model and guide on running the project. A Kaggle file can be accessed [here](https://www.kaggle.com/code/rishitjakharia/isruc-technical-documentation).
 
-### **3. Experimental Results**
-
-- **`experimental_results.md`**: A document summarizing the key results from various experiments conducted during the project, including model performance, evaluation metrics, and comparative analyses.
-
 ---
 
 ## Purpose
